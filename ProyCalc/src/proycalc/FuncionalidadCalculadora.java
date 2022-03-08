@@ -8,7 +8,7 @@ package proycalc;
  * @authors 
  * Esteban Reich
  * Esteban Kanahuati
- * Guillermo Ochoa
+ * Guillermo Mercado
  * Mariana James
  * Genevieve Martínez
  */
