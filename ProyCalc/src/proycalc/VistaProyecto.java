@@ -10,8 +10,12 @@ import static proycalc.FuncionalidadCalculadora.*;
  */
 
 /**
- *
- * @author genimartinez
+ * @authors
+ * Esteban Reich
+ * Esteban Kanahuati
+ * Guillermo Mercado
+ * Mariana James
+ * Gennevieve Martínez
  */
 public class VistaProyecto extends javax.swing.JFrame {
     
